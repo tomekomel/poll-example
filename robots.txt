@@ -1,0 +1,1 @@
+sitemap:http://www.everyplate.com/sitemap.xml
